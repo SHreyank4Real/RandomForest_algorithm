@@ -1,4 +1,4 @@
-# Random Forest Algoritham
+# Random Forest Algorithm
 
 This README outlines the details of random forest algoritham in machine learning
 
