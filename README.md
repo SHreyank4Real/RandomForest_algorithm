@@ -7,9 +7,9 @@ This README outlines the details of random forest algoritham in machine learning
 You will need the following things properly installed on your computer.
 
 * [python3.6](https://www.python.org/downloads/)
-* numpy
-* matplotlib 
-* pandas
+* [numpy](https://numpy.org/)
+* [matplotlib](https://matplotlib.org/) 
+* [pandas](https://pandas.pydata.org/)
 * dataset 
 
 or you can use google colab notebook
